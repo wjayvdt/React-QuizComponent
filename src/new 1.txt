@@ -1,0 +1,19 @@
+d4:e6:b7:89:fb:09 Daddy Phone *
+c0:e4:34:7a:c2:97 Rhomba *
+d8:31:34:f3:c6:1c Roy TV *
+64:20:0c:10:ab:ed Daddy iPad *
+d4:f5:47:19:0b:99 Google Nest *
+c4:4f:33:b4:d1:7a Gosund 1 *
+d8:f1:5b:a0:5b:f6 Gosund 2 *
+94:b8:6d:c1:09:7b Daddy Computer *
+1a:59:86:82:ed:96 Daddy iWatch *
+6c:96:cf:16:0a:87 Roy iWatch *
+d4:ab:cd:da:f8:10 Roy TV 2 *
+ac:89:95:48:66:41 PS4 *
+00:28:f8:1d:db:4d Daddy Computer *
+18:81:0e:5b:19:f3 Daddy iPhone *
+64:16:66:a0:7c:b0 Nest Therm *
+64:16:66:87:af:81 Nest Cam *
+5e:72:2f:bd:12:2b my phone *
+
+b6:2f:95:59:7e:6d unknown phone
